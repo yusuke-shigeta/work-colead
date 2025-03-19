@@ -303,7 +303,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
                             <img src="https://co-lead.jp/wp-content/themes/Colead/assets/img/flow_item_05_img.png" alt="">
                         </div>
                         <h3 class="flow-item-ttl">決済</h3>
-                        <p class="flow-item-txt">司法書士による土地に関する登記申請時に決済いたします。</p>
+                        <p class="flow-item-txt">司法書士による土地の登記申請時に決済を行います。</p>
                     </li>
                 </ul>
             </div>
