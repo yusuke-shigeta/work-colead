@@ -335,6 +335,18 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
                         <p class="faq-item-q">メンテナンス業者が決められいる場合においても売却可能でしょうか？</p>
                         <p class="faq-item-a">価格の調整が入る可能性がありますが、買取可能です。</p>
                     </li>
+                    <li class="faq-item">
+                        <p class="faq-item-q">設備が古くても売却できますか？</p>
+                        <p class="faq-item-a">売却可能ですが、価格の調整が入る場合があります。</p>
+                    </li>
+                    <li class="faq-item">
+                        <p class="faq-item-q">パネルやパワーコンディショナーの交換が必要な場合でも売却できますか？</p>
+                        <p class="faq-item-a">売却可能ですが、設備の状態により価格が変動する場合があります。</p>
+                    </li>
+                    <li class="faq-item">
+                        <p class="faq-item-q">FIT価格が低い発電所でも売却できますか？</p>
+                        <p class="faq-item-a">可能ですが、高FIT価格の発電所に比べて買取価格は低くなる傾向があります。</p>
+                    </li>
                 </ul>
             </div>
         </div>
